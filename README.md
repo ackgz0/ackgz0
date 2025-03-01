@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋, I'm Umut Eray Açıkgöz</h1>
+<h1 align="center">hi 👋, I'm Eray</h1>
 <h3 align="center">passionate about ai, nlp, embedding systems. junior computer engineering student from Turkey</h3>
 
 - 📫 How to reach me **umuteray04@hotmail.com**
