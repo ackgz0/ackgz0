@@ -1,5 +1,5 @@
 <h1 align="center">hi 👋, I'm Eray</h1>
-<h3 align="center">passionate about ai, nlp, embedding systems. senior computer engineering student from Turkiye</h3>
+<h3 align="center">passionate about ai, nlp, agents. senior computer engineering student from Turkiye</h3>
 
 - 📫 How to reach me **umuteray04@hotmail.com**
 
